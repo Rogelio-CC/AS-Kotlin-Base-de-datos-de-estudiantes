@@ -1,0 +1,2 @@
+Aplicación hecho con el lenguaje de programación Kotlín y con el editor de código Android Studio. Consiste en agregar usuarios como administrador, así como ponerles créditos deportivos, solidarios y culturales. También se puede consultar a algún alumno, eliminarlo, entre otras cosas.
+Para la interfaz del alumno solo verá sus datos personales (nombre, apellidos, carrera, créditos, semestre). Lo destacable de este proyecto es el uso de una base de datos de alumnos o estudiantes.
